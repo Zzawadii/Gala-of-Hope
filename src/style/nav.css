@@ -1,0 +1,50 @@
+/* Navbar design unchanged */
+.navbar {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    max-width: 1200px;
+    backdrop-filter: blur(2px);
+    background-color: rgba(225, 255, 255, 0.3);
+    border-radius: 15px;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1000;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 30px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    /* default nav links color */
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: white;
+    /* always white */
+}
+
+.nav-links a:hover {
+    color: #ffcc00;
+}
+
+/* Only nav links turn dark on white sections or Donate */
+.dark-link {
+    color: #222 !important;
+}

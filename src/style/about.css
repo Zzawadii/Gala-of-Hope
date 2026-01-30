@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inika', serif;
+    background-color: #ffffff;
+    padding-top: 120px;
+}
+
+.who-we-are-page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.who-we-are {
+    display: flex;
+    width: 90%;
+    max-width: 1200px;
+    align-items: center;
+    gap: 60px;
+}
+
+.image-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    height: 80vh;
+    width: auto;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.text-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section-title {
+    font-family: 'Italianno', cursive;
+    font-size: 72px;
+    color: #222;
+    margin-bottom: 30px;
+}
+
+.text-container p {
+    font-size: 20px;
+    line-height: 1.7;
+    color: #333;
+    margin-bottom: 24px;
+}

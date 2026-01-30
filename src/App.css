@@ -1,0 +1,16 @@
+.app {
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.section {
+  min-height: 100vh;
+  scroll-snap-align: start;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inika', serif;
+}
