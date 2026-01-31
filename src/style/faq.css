@@ -2,8 +2,9 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Inika', serif;
-    background-color: #f3f3f3;
+    background-color: #F4EFE5;
     border-top: 1px solid rgba(0, 0, 0, 0.06);
+
 
 }
 
@@ -55,11 +56,15 @@ body {
     margin-bottom: 24px;
 }
 
-.faq-item h2 {
+/* Updated H2 headings - bigger and bolder */
+.faq-item h2,
+.faq-full h2 {
     font-family: 'Italianno', cursive;
-    font-size: 28px;
-    color: #333;
-    margin-bottom: 8px;
+    font-size: 36px;
+    /* desktop size */
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 12px;
 }
 
 .faq-item p {
@@ -73,13 +78,6 @@ body {
     width: 90%;
     max-width: 1200px;
     margin-top: 40px;
-}
-
-.faq-full h2 {
-    font-family: 'Italianno', cursive;
-    font-size: 28px;
-    color: #333;
-    margin-bottom: 8px;
 }
 
 .faq-full p {
@@ -97,6 +95,9 @@ body {
     margin: 0 auto 60px;
 }
 
+/* =====================
+   MOBILE RESPONSIVENESS
+   ===================== */
 @media (max-width: 768px) {
 
     .faq-section {
@@ -115,9 +116,13 @@ body {
         text-align: center;
     }
 
+    /* Mobile H2 size */
     .faq-item h2,
     .faq-full h2 {
-        font-size: 24px;
+        font-size: 36px;
+        font-weight: 600;
+        color: #222;
+        margin-bottom: 12px;
     }
 
     .faq-item p,

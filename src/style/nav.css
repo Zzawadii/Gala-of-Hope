@@ -48,18 +48,3 @@
 .dark-link {
     color: #222 !important;
 }
-
-@media (max-width: 768px) {
-
-    .navbar {
-        padding: 12px 20px;
-    }
-
-    .navbar ul {
-        gap: 16px;
-    }
-
-    .logo {
-        font-size: 20px;
-    }
-}
