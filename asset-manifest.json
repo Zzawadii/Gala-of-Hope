@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gala-of-Hope/static/css/main.3db839a6.css",
-    "main.js": "/Gala-of-Hope/static/js/main.d065c7a8.js",
+    "main.js": "/Gala-of-Hope/static/js/main.e01b576c.js",
     "static/js/453.b4b5476f.chunk.js": "/Gala-of-Hope/static/js/453.b4b5476f.chunk.js",
     "static/media/vol.png": "/Gala-of-Hope/static/media/vol.0e9fd7fe64fd5737d7d0.png",
     "static/media/health.png": "/Gala-of-Hope/static/media/health.348c64df20088714eb5f.png",
@@ -13,11 +13,11 @@
     "static/media/book.png": "/Gala-of-Hope/static/media/book.941370c462fdb7813f86.png",
     "index.html": "/Gala-of-Hope/index.html",
     "main.3db839a6.css.map": "/Gala-of-Hope/static/css/main.3db839a6.css.map",
-    "main.d065c7a8.js.map": "/Gala-of-Hope/static/js/main.d065c7a8.js.map",
+    "main.e01b576c.js.map": "/Gala-of-Hope/static/js/main.e01b576c.js.map",
     "453.b4b5476f.chunk.js.map": "/Gala-of-Hope/static/js/453.b4b5476f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3db839a6.css",
-    "static/js/main.d065c7a8.js"
+    "static/js/main.e01b576c.js"
   ]
 }
