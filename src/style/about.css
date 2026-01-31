@@ -56,3 +56,31 @@ body {
     color: #333;
     margin-bottom: 24px;
 }
+
+@media (max-width: 768px) {
+
+    .who-we-are-page {
+        height: auto;
+        padding: 40px 0;
+    }
+
+    .who-we-are {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .image-container img {
+        height: 45vh;
+        max-width: 100%;
+    }
+
+    .section-title {
+        font-size: 48px;
+        text-align: center;
+    }
+
+    .text-container p {
+        font-size: 17px;
+        text-align: center;
+    }
+}

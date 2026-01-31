@@ -98,3 +98,26 @@ button {
     font-size: 16px;
     line-height: 1.6;
 }
+
+@media (max-width: 768px) {
+
+    .content-frame {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .donate-box,
+    .form-box {
+        padding: 30px 24px;
+    }
+
+    .donate-box h1 {
+        font-size: 38px;
+        text-align: center;
+    }
+
+    .form-box h2 {
+        font-size: 30px;
+        text-align: center;
+    }
+}
