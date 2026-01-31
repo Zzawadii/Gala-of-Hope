@@ -8,7 +8,7 @@ const Navbar = ({ dark }) => {
             <ul className="nav-links">
                 <li><a className={dark ? "dark-link" : ""} href="#home">Home</a></li>
                 <li><a className={dark ? "dark-link" : ""} href="#about">About</a></li>
-                <li><a className={dark ? "dark-link" : ""} href="#reviews">Reviews</a></li>
+                <li><a className={dark ? "dark-link" : ""} href="#faq">Reviews</a></li>
                 <li><a className={dark ? "dark-link" : ""} href="#donate">Donate</a></li>
             </ul>
         </nav>
