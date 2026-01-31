@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/gala-of-hope/static/css/main.87164207.css",
-    "main.js": "/gala-of-hope/static/js/main.96500bd5.js",
-    "static/js/453.b4b5476f.chunk.js": "/gala-of-hope/static/js/453.b4b5476f.chunk.js",
-    "static/media/vol.png": "/gala-of-hope/static/media/vol.0e9fd7fe64fd5737d7d0.png",
-    "static/media/health.png": "/gala-of-hope/static/media/health.348c64df20088714eb5f.png",
-    "static/media/ff.png": "/gala-of-hope/static/media/ff.b9ad09bb379006f47666.png",
-    "static/media/end.png": "/gala-of-hope/static/media/end.5a962a7fd3e88171b49a.png",
-    "static/media/hands.png": "/gala-of-hope/static/media/hands.1a575435102e5329314b.png",
-    "static/media/skill.png": "/gala-of-hope/static/media/skill.09000f5bb8428fec6a06.png",
-    "static/media/give.png": "/gala-of-hope/static/media/give.b2b5e74309abd767e483.png",
-    "static/media/book.png": "/gala-of-hope/static/media/book.941370c462fdb7813f86.png",
-    "index.html": "/gala-of-hope/index.html",
-    "main.87164207.css.map": "/gala-of-hope/static/css/main.87164207.css.map",
-    "main.96500bd5.js.map": "/gala-of-hope/static/js/main.96500bd5.js.map",
-    "453.b4b5476f.chunk.js.map": "/gala-of-hope/static/js/453.b4b5476f.chunk.js.map"
+    "main.css": "/Gala-of-Hope/static/css/main.3db839a6.css",
+    "main.js": "/Gala-of-Hope/static/js/main.d065c7a8.js",
+    "static/js/453.b4b5476f.chunk.js": "/Gala-of-Hope/static/js/453.b4b5476f.chunk.js",
+    "static/media/vol.png": "/Gala-of-Hope/static/media/vol.0e9fd7fe64fd5737d7d0.png",
+    "static/media/health.png": "/Gala-of-Hope/static/media/health.348c64df20088714eb5f.png",
+    "static/media/ff.png": "/Gala-of-Hope/static/media/ff.b9ad09bb379006f47666.png",
+    "static/media/end.png": "/Gala-of-Hope/static/media/end.5a962a7fd3e88171b49a.png",
+    "static/media/hands.png": "/Gala-of-Hope/static/media/hands.1a575435102e5329314b.png",
+    "static/media/skill.png": "/Gala-of-Hope/static/media/skill.09000f5bb8428fec6a06.png",
+    "static/media/give.png": "/Gala-of-Hope/static/media/give.b2b5e74309abd767e483.png",
+    "static/media/book.png": "/Gala-of-Hope/static/media/book.941370c462fdb7813f86.png",
+    "index.html": "/Gala-of-Hope/index.html",
+    "main.3db839a6.css.map": "/Gala-of-Hope/static/css/main.3db839a6.css.map",
+    "main.d065c7a8.js.map": "/Gala-of-Hope/static/js/main.d065c7a8.js.map",
+    "453.b4b5476f.chunk.js.map": "/Gala-of-Hope/static/js/453.b4b5476f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87164207.css",
-    "static/js/main.96500bd5.js"
+    "static/css/main.3db839a6.css",
+    "static/js/main.d065c7a8.js"
   ]
 }
