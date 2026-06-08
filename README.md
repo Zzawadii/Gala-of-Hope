@@ -12,4 +12,3 @@ A responsive charity website for Unity Outreach Network.
 - HTML
 - CSS
 - JavaScript
-
