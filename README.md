@@ -1,5 +1,4 @@
 # Gala of Hope
-
 A responsive charity website for Unity Outreach Network.
 
 ## Features
